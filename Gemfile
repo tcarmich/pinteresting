@@ -40,7 +40,7 @@ gem 'autoprefixer-rails'
 
 group :development, :test do 
 	gem 'sqlite3'
-	gem 'spring',
+	gem 'spring'
 end
 
 group :doc do 
@@ -51,3 +51,4 @@ group :production do
 	gem 'pg'
 	gem 'rails_12factor'
 end
+
