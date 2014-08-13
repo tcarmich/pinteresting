@@ -31,6 +31,8 @@ gem 'autoprefixer-rails'
 
 gem 'paperclip', '~> 4.1'
 
+gem 'aws-sdk', '~> 1.20.0'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
